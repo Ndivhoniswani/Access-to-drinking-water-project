@@ -1,7 +1,7 @@
 # Water_Problem_Project
 
 ### Project Overview
-We'll be investigating the access to afffordable drinking water. Part 1 of the project is about understaning the data and part 2 is about transforming the data.
+We'll be investigating the access to affordable drinking water. Part 1 of the project is about understanding the data and part 2 is about transforming the data.
 
 ### Data Source
 - Estimate on the use of water (2020) dataset.
@@ -26,14 +26,14 @@ Note that the two dataset will not be available here, due to copywrite issues.
 range, and the standard deviation for each of the 12 water access features. A box and whisker plot for all 12 water access features.
 - Step 5: **Investigating access by population size:** Three 100% stacked column charts, one each for national, rural, and urban population size or
 percentage versus the four different service levels.
-- Step 6:  **Investigating access by income group:** A pivot table for income group versus the sum of the national population and the averages for the urban population, basic, limited, unimproved, and surfaceaccess shares. A visualisation (of choice) for income group versus the different average shares in the created pivot table.
+- Step 6:  **Investigating access by income group:** A pivot table for income group versus the sum of the national population and the averages for the urban population, basic, limited, unimproved, and surface access shares. A visualisation (of choice) for income group versus the different average shares in the created pivot table.
 
-### Findining/Results
+### Findings/Results
 5 findings from water problem project:
 
 1. In 2020, the world population was estimated to be 7.821 billion, 55% of which lived in urban areas*. The percentage difference between the dataset and the estimated world urban population size (the total number of people living in urban areas) for 2020 is **1.70%**
-2. Large populatioin size live in urban areas than rural areas in this dataset. Nations are growing, with cities booming while rural areas see a steady decline. This urban shift offers both progress and challenges for the future.
-3. Countries with greater urban population shares are more likely to provide basic water service than countries with smaller urban population shares.
+2. A larger population size lives in urban areas than rural areas in this dataset. Nations are growing, with cities booming while rural areas see a steady decline. This urban shift offers both progress and challenges for the future.
+3. Countries with greater urban population shares are more likely to provide basic water services than countries with smaller urban population shares.
 4. The significant inequalities in access to basic water in this population. While the national median suggests that most people have access to improved water sources, there are large sections of the population, particularly in rural areas, who lack this basic necessity.
 5. The population sizes and shares across the different income groups:
 - High-income countries are on average more urbanised than low-, lower-middle-, and upper-middle-income countries.
