@@ -29,24 +29,20 @@ percentage versus the four different service levels.
 - Step 6:  **Investigating access by income group:** A pivot table for income group versus the sum of the national population and the averages for the urban population, basic, limited, unimproved, and surfaceaccess shares. A visualisation (of choice) for income group versus the different average shares in the created pivot table.
 
 ### Findining/Results
-10 findings from water problem project:
+5 findings from water problem project:
 
-1. What is the percentage difference between the dataset and the estimated world urban population size (the total number of people
-living in urban areas) for 2020?
-
-2. True or false? Based on the national population versus urban and rural share visualisation, where the x-axis is the aggregated
-national population size and the y-axis is the population share in percentage, the average population shares across all population
-sizes are approximately 50% because the chart lines fluctuate equally above and below the 50% line.
-
-3. True or false? The distribution of the national basic service feature (wat_bas_n) is more similar to the distribution of the urban
-basic feature (wat_bas_u) than it is to the national limited feature (wat_lim_n).
-
-4. What is the interquartile range of the rural surface service feature, wat_sur_r?
-
-5. 
-
+1. In 2020, the world population was estimated to be 7.821 billion, 55% of which lived in urban areas*. The percentage difference between the dataset and the estimated world urban population size (the total number of people living in urban areas) for 2020 is **1.70%**
+2. Large populatioin size live in urban areas than rural areas in this dataset. Nations are growing, with cities booming while rural areas see a steady decline. This urban shift offers both progress and challenges for the future.
+3. Countries with greater urban population shares are more likely to provide basic water service than countries with smaller urban population shares.
+4. The significant inequalities in access to basic water in this population. While the national median suggests that most people have access to improved water sources, there are large sections of the population, particularly in rural areas, who lack this basic necessity.
+5. The population sizes and shares across the different income groups:
+- High-income countries are on average more urbanised than low-, lower-middle-, and upper-middle-income countries.
+- More people included in this dataset live in lower-middle-income countries than in any of the other types of economies.
+- On average, the greater the income group the more urbanised.
 
 ### Recommdations
+
+
 
 
 
