@@ -4,7 +4,7 @@
 We'll be investigating the access to afffordable drinking water. Part 1 of the project is about understaning the data and part 2 is about transforming the data.
 
 ### Data Source
-- Part 1: Estimate on the use of water (2020) dataset.
+- Estimate on the use of water (2020) dataset.
 
 Note that the two dataset will not be available here, due to copywrite issues.
 
@@ -41,6 +41,19 @@ percentage versus the four different service levels.
 - On average, the greater the income group the more urbanised.
 
 ### Recommdations
+
+1. Improve Urban Population Data Accuracy:
+-Invest in robust data collection methods: Employ a combination of censuses, surveys, and remote sensing technologies to provide more accurate and granular data on urban populations.
+2. Manage Urban Growth:
+- Implement policies and programs to improve living conditions and economic opportunities in rural areas, reducing the pressure on urban centers.
+3. Ensure Equitable Access to Water:
+- Increase investment in water treatment plants, distribution networks, and sanitation facilities, particularly in underserved rural areas.
+4. Address Income-Based Disparities:
+- Implement policies that foster economic opportunities and improve living standards for all citizens, regardless of income level.
+5. Leverage Data for Decision-Making:
+- Regularly monitor and evaluate the effectiveness of implemented policies and adjust them as needed based on data-driven insights.
+
+
 
 
 
