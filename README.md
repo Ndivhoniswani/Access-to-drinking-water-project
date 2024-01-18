@@ -1,6 +1,6 @@
 # Water_Problem_Project
 
-## Table of Contents
+### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
