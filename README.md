@@ -6,7 +6,7 @@ We'll be investigating the access to affordable drinking water. Part 1 of the pr
 ### Data Source
 - Estimate on the use of water (2020) dataset.
 
-Note that the two dataset will not be available here, due to copywrite issues.
+Note that the dataset will not be available here, due to copywrite issues.
 
 ### Tools 
 - Advanced excel - Understanding and trasforming the data
