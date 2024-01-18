@@ -1,5 +1,13 @@
 # Water_Problem_Project
 
+## Table of Contents
+- [Project Overview](#Project-Overview)
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [Procedure Followed](#Procedure-Followed)
+- [Findings/Results](#Findings/Results)
+- [Recommdations](#Recommdations)
+
 ### Project Overview
 We'll be investigating the access to affordable drinking water. Part 1 of the project is about understanding the data and part 2 is about transforming the data.
 
@@ -11,7 +19,9 @@ Note that the dataset will not be available here, due to copywrite issues.
 ### Tools 
 - Advanced excel - Understanding and trasforming the data
 
-### Part 1: Understaning the data 
+### Procedure Followed:
+
+#### Part 1: Understaning the data 
 - Step 1: **Becoming familiar with the dataset:** We had a look at the different features and definitions of this dataset.
 - Step 2: **Importing the data:** In order to investigate the data, we need to import our data, ensuring that it is properly separated into columns and rows.
 - Step 3: **Investigating population size:** We had to summarise the national population size to better understand how the dataset represents the entire world population and create new features.
@@ -19,7 +29,7 @@ Note that the dataset will not be available here, due to copywrite issues.
 - Step 5: **Investigating access by population size:** We had to investigate what access to water at the different service levels looks like for different population sizes  and create new features.
 - Step 6: **Investigating access by income group:** We want to investigate the relationship between GNI (gross national income) or income group, population size, urbanisation, and national water access  and create new features.
 
-### Part 2: Transforming the data and creating report called Global 2020 report
+#### Part 2: Transforming the data and creating report called Global 2020 report
 - Step 1 and Step 2 are the same as part 1.
 - Step 3: **Investigating population size:** A summary of the dataset population size and estimated world population, which includes urban percentage share and the percentage difference between all of the features. A line chart of the national population versus the urban and rural population shares.
 - Step 4: **Investigating access by area:** The maximum, minimum, mean, mode, median, first and third quartiles, the interquartile
