@@ -1,5 +1,4 @@
-# Water_Problem_Project
-
+# Lifelines: Bringing Clean Water to Thirsty Communities
 ### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
