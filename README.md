@@ -1,4 +1,7 @@
 # Lifelines: Bringing Clean Water to Thirsty Communities
+
+![Excel](https://github.com/Ndivhoniswani/Advanced-Microsoft-Excel-Project/blob/main/Microsoft%20Excel%20Image.png)
+
 ### Table of Contents
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
